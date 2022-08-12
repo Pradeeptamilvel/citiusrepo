@@ -1,1 +1,3 @@
 line 1 added to local
+line 2
+line 3
